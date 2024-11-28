@@ -1,0 +1,19 @@
+# Ignore bin and obj folders
+bin/
+obj/
+
+# Ignore Visual Studio temporary files, build results, and logs
+.vs/
+*.user
+*.suo
+*.log
+*.ilk
+*.pdb
+*.opendb
+*.VC.db
+
+# Ignore other common unwanted files
+*.exe
+*.dll
+*.cache
+*.vscode/
